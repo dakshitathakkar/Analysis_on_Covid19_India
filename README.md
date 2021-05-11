@@ -11,4 +11,4 @@ Python - 3.8.5 Anaconda Navigator - 2.0.1 Jupyter Notebook - 6.1.4
 
 Dataset available on Kaggle
 
-##### Parterned with https://github.com/Diksha25Agrawal
+##### Partnered with https://github.com/Diksha25Agrawal
